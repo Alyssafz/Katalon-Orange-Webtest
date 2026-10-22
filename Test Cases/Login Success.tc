@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Success</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Nafiendra Hendyka</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Nafiendra Hendyka</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>cfe1a798-4a98-4c0b-b123-ecea03873d47</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>cfe1a798-4a98-4c0b-b123-ecea03873d47</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c421730c-528c-46f4-9a27-9b1e4d399980</testCaseGuid>
+</TestCaseEntity>
