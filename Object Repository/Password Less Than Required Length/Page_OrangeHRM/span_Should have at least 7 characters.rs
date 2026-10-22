@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Should have at least 7 characters</name>
+   <tag></tag>
+   <elementGuidId>a3efc6d2-172b-469a-90c9-ab96bdd390d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.oxd-text.oxd-input-field-error-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Invalid&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>683bc8ef-246b-4e66-acf2-9160fa716229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message</value>
+      <webElementGuid>432c752d-e136-4740-8f27-ad7bc9a94097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid</value>
+      <webElementGuid>6722bcb1-d6e2-4818-af2e-0ee69e4fe103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-36163ae9261fdbee08c537c4c95958b2</value>
+      <webElementGuid>9d11fb05-83e3-4b76-a72c-120847eeb067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      <webElementGuid>80da4954-2740-45cc-8608-b9f07d8fa30a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-text ') and contains(concat(' ', normalize-space(@class), ' '), ' oxd-input-field-error-message ')]</value>
+      <webElementGuid>11d254a8-077b-4852-a5ed-d33015779cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Invalid' or . = 'Invalid')]</value>
+      <webElementGuid>c1616d7f-c8fc-4c7a-8934-a6e0799827b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
