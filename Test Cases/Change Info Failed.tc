@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Info Failed</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Khansa Alyssa Fauziyah</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Khansa Alyssa Fauziyah</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>8377a79c-16bb-4714-a39b-d383654c7b67</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>8377a79c-16bb-4714-a39b-d383654c7b67</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8816b473-8b14-499a-b31e-df8491ca3c12</testCaseGuid>
+</TestCaseEntity>
