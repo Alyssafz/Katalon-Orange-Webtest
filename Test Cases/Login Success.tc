@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>p</name>
+   <name>Login Success</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -28,5 +28,5 @@
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ce0cfe0f-715c-4b0b-ae98-e95e803ad889</testCaseGuid>
+   <testCaseGuid>e2e89276-c108-4c0c-bac6-39afa5cd7e54</testCaseGuid>
 </TestCaseEntity>
