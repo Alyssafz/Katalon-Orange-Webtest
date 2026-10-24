@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Like</name>
+   <name>Add user success</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -28,5 +28,5 @@
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7346a89b-6249-4cb7-a79d-dd7198417b69</testCaseGuid>
+   <testCaseGuid>35cc8a2e-26cb-4b6f-813f-ed3a51ba8190</testCaseGuid>
 </TestCaseEntity>

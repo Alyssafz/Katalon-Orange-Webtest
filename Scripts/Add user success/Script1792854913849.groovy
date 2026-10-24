@@ -24,9 +24,28 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/aut
 
 WebUI.callTestCase(findTestCase('Login Success'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Like/Page_OrangeHRM/a_Buzz'))
+WebUI.click(findTestObject('Add user success/Page_OrangeHRM/button_Add'))
 
-WebUI.click(findTestObject('Like/Page_OrangeHRM/svg_heart-svg'))
+WebUI.setText(findTestObject('Add user success/Page_OrangeHRM/input_Type for hints'), 're')
 
-WebUI.click(findTestObject('Like/Page_OrangeHRM/p_1 Like'))
+WebUI.click(findTestObject('Add user success/Page_OrangeHRM/div_Rebecca Harmony'))
+
+WebUI.click(findTestObject('Add user success/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar'))
+
+WebUI.click(findTestObject('Add user success/Page_OrangeHRM/div_Admin'))
+
+WebUI.click(findTestObject('Add user success/Page_OrangeHRM/i_oxd-icon bi-caret-down-fill oxd-select-text-ar_1'))
+
+WebUI.click(findTestObject('Add user success/Page_OrangeHRM/div_Admin'))
+
+WebUI.setText(findTestObject('Add user success/Page_OrangeHRM/input_oxd-input oxd-input-active'), 'reyyyy')
+
+WebUI.setEncryptedText(findTestObject('Add user success/Page_OrangeHRM/input_oxd-input oxd-input-active_1'), 'iGDxf8hSRT4=')
+
+WebUI.setEncryptedText(findTestObject('Add user success/Page_OrangeHRM/input_oxd-input oxd-input-focus oxd-input-err'), 
+    'VJaXrRtVd6CqGKj5f9Ch9A==')
+
+WebUI.setEncryptedText(findTestObject('Add user success/Page_OrangeHRM/input_oxd-input oxd-input-active_2'), 'VJaXrRtVd6CqGKj5f9Ch9A==')
+
+WebUI.click(findTestObject('Add user success/Page_OrangeHRM/button_Save'))
 
