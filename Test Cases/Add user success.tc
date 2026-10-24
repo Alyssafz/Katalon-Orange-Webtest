@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add user success</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Kapi</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Kapi</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>aac5e386-736e-4534-b239-58690592c8c7</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>aac5e386-736e-4534-b239-58690592c8c7</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35cc8a2e-26cb-4b6f-813f-ed3a51ba8190</testCaseGuid>
+</TestCaseEntity>
